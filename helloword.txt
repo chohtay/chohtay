@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	printf("Wellcome Cho Htay\n");
+	printf("============\n");
+	printf("1-Open\n");
+	printf("2-New\n");
+	printf("3-Exit\n");
+	printf("please Choose your anaswer (1,2,3)\n");
+_getch();
+return():
+}
